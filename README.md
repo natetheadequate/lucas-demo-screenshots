@@ -1,6 +1,6 @@
 # LUCAS
 
-LUCAS was the project I worked on for much of my first co-op at Nth Cycle, a metal refining startup which grew from 20 to 40 people over the course of my 6-month internship in Spring 2023. As the sole software engineer, the design, code, and associated infrastructure was wholly authored by me. This software is neither a completed product nor professional grade. This product is a result of attempting to solve problems rather than implement features, so the scope and design of the application was very fluid. Coupled with time constraints, I had to prioritize working code over most other concerns, such as testing or code organization.
+LUCAS was the project I worked on for much of my first co-op at Nth Cycle, a metal refining startup which grew from 20 to 40 people over the course of my 6-month internship in Spring 2023. As the sole software engineer, the design, code, and associated infrastructure was wholly authored by me. This software is neither a completed product nor professional grade. The scope and design of the application was very fluid. Coupled with time constraints, I had to prioritize working code over most other concerns, such as testing or code organization.
 
 I have consent of the company to have screenshots of LUCAS posted publicly and to give live demos to employers under the condition that none of the company's processes or data are revealed. To be sure to avoid any impropriety, I have opted to completely change the theme of the process to emulate how a fictional bread manufacturer might use the application.
 
